@@ -4,14 +4,14 @@ CLI app utilizing Language_ Interpretation and Recognition Interface
 This App utilizes:
 
 APIs required:
-Spotify
-BandsInTown
+Spotify,
+BandsInTown,
 omDb
 
 NPM Packages required:
-Axios
-Spotify
-Moment
+Axios,
+Spotify,
+Moment,
 FS
 
 To Use:
