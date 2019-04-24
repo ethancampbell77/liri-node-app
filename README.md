@@ -24,8 +24,8 @@ Ex.
 3. node liri concert-this *(your artsit/band choice)*
 4. node liri do-what-it-says 
 
-*This app is command line only*
-_But do try to have fun._
+*This app is command line only,
+But do try to have fun.
 
 
 
