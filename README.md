@@ -1,22 +1,22 @@
 # liri-node-app
-CLI app utilizing Language_ Interpretation and Recognition Interface
+**CLI app utilizing Language_ Interpretation and Recognition Interface**
 
-This App utilizes:
+**This App utilizes:**
 
-APIs required:
-Spotify,
-BandsInTown,
-omDb
+**APIs required:**
+* Spotify
+* BandsInTown
+* omDb
 
-NPM Packages required:
-Axios,
-Spotify,
-Moment,
-FS
+**NPM Packages required:**
+* Axios
+* Spotify
+* Moment
+* FS
 
-To Use:
+**To Use:**
 
-Run one of the 4 predefined commands plus your own input as an appropriate argument
+*Run one of the 4 predefined commands plus your own input as an appropriate argument*
 
 Ex.
 1. node liri spotify-this-song Faith
@@ -24,8 +24,8 @@ Ex.
 3. node liri concert-this Ty Segall
 4. node liri do-what-it-says
 
-This app is command line only
-Have fun.
+*This app is command line only*
+_But do try to have fun._
 
 
 
