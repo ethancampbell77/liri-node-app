@@ -24,8 +24,9 @@ Ex.
 3. node liri concert-this *(your artsit/band choice)*
 4. node liri do-what-it-says 
 
-*This app is command line only,
-But do try to have fun.
+**Screenshot examples of this app working can be found here: https://github.com/ethancampbell77/liri-node-app/tree/master/working_app_screenshots
+
+*This app is command line only, but do try to have fun.*
 
 
 
