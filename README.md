@@ -1,5 +1,5 @@
 # liri-node-app
-**CLI app utilizing Language_ Interpretation and Recognition Interface**
+###**CLI Application creating a Language_ Interpretation and Recognition_Interface**
 
 **This App utilizes:**
 
